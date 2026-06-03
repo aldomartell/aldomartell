@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a computer science student. Started with "Hello World." Now I'm writing multi-threaded systems code in C++, running penetration tests on Kali Linux.
+I'm a Computer Science student building things at the intersection of systems programming, cybersecurity, and AI. I started with "Hello World", now I'm writing multi-threaded C, running penetration tests on Kali Linux, and currently building improved versions of J.A.R.V.I.S.-inspired AI assistant from scratch.
 - 🌱 I’m currently learning ...
   - Machine Learning
   - Penetration Testing
