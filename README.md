@@ -4,7 +4,7 @@
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXc1d3Vqbnc2MXBmdWd6OGpwanRhMXZqbHZ5OXBxdnZ4ZmQxbGxzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lptIayuGHV9Utu3iTv/giphy.gif" width="30px">&nbsp;***About me***
 
 Started with "Hello World." Now I'm writing multi-threaded 
 systems code in C, running penetration tests on Kali Linux, 
