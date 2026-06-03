@@ -5,13 +5,11 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 I'm a Computer Science student building things at the intersection of systems programming, cybersecurity, and AI. I started with "Hello World", now I'm writing multi-threaded C, running penetration tests on Kali Linux, and currently building improved versions of J.A.R.V.I.S.-inspired AI assistant from scratch.
-- 🌱 I’m currently learning ...
-  - Machine Learning
-  - Penetration Testing
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help<br>
+- 🌱 Currently exploring Machine Learning and Penetration Testing
+- 🤝 Open to collaborating on open source projects
+- 💬 Ask me anything — happy to help<br>
 - ⚽ Outside tech — lifting weights, soccer, history documentaries, and conspiracy podcasts (the good kind)
-- 📫 Reach out to me at: <a href="aldo.martell@outlook.com">aldo.martell@outlook.com</a>
+- 📫 Reach me at: <a href="aldo.martell@outlook.com">aldo.martell@outlook.com</a>
 
 ## My Skills Include
 
