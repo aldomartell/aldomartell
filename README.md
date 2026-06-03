@@ -8,7 +8,7 @@
 
 Started with "Hello World." Now I'm writing multi-threaded 
 systems code in C, running penetration tests on Kali Linux, 
-and building a fully local AI assistant — no cloud, no shortcuts.
+and building a fully local AI assistant.
 * **I am interested in Web designing, Android development, and digital marketing**
 - 🌱 I’m currently learning ...
   - Java
