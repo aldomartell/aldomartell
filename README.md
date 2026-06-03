@@ -12,7 +12,7 @@ and building a fully local AI assistant.
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>
 - ⚽ Outside tech — lifting weights, soccer, history documentaries, and conspiracy podcasts (the good kind)
-- 📫 Reach out to me at: <a href="aldo.martell@outlook.com">valenwerlecontacto@gmail.com</a>
+- 📫 Reach out to me at: <a href="aldo.martell@outlook.com">aldo.martell@outlook.com"</a>
 
 ## My Skills Include
 
